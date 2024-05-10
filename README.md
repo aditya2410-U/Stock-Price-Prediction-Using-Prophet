@@ -19,6 +19,10 @@ This project is a simple web application for predicting the stock price of Netfl
 - **Backend:** Python (Flask)
 
 - **Machine Learning:** Prophet (Facebook's time series forecasting library)
+## **Project Images**
+![1](https://github.com/aditya2410-U/Stock-Price-Prediction-Using-Prophet/assets/102215488/7985d5fd-e286-44a1-acf1-738e9916c5d2)
+![2](https://github.com/aditya2410-U/Stock-Price-Prediction-Using-Prophet/assets/102215488/4b8490e6-d851-4e02-927f-adb44ecd84fa)
+
 
 ## **How to Use**
 
